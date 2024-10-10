@@ -1,0 +1,148 @@
+div {
+  height: 500px;
+  width: 375px;
+  box-shadow: 5px 5px 5px;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 15px;
+}
+
+.card1 {
+  background-color: #ac2e44;
+}
+
+.card2 {
+  background-color: #f5527a;
+}
+
+.card3 {
+  background-color: #b64a0d;
+}
+
+.card4 {
+  background-color: #18a79e;
+}
+
+.card5 {
+  background-color: #0e343e;
+}
+
+.card6 {
+  background-color: #df4375;
+}
+
+.card7 {
+  background-color: #74e;
+}
+
+.card8 {
+  background-color: #104176;
+}
+
+.card9 {
+  background-color: #e7875f;
+}
+
+.card10 {
+  background-color: #dc43cf;
+}
+
+.card11 {
+  background-color: #Fc4703;
+}
+
+.card12 {
+  background-color: #eab606;
+}
+
+.card13 {
+  background-color: #7bb2d9;
+}
+
+.card14 {
+  background-color: #8070fe;
+}
+
+.card15 {
+  background-color: #0d3601;
+}
+
+.card16 {
+  background-color: #7f67fd;
+}
+
+.card17 {
+  background-color: #7bb2d9;
+}
+
+.card18 {
+  background-color: #D827D9;
+}
+
+.card19 {
+  background-color: #967bb6;
+}
+
+.card20 {
+  background-color: #f6b64e;
+}
+
+.card21 {
+  background-color: #f5572a;
+}
+
+.card22 {
+  background-color: #c7b299;
+}
+
+.card23 {
+  background-color: #72ccae;
+}
+
+ h1 {
+  font-family: Arial;
+  font-size: 50px;
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+  box-shadow: 5px 5px 5px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-family: Arial
+}
+
+.number {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-weight: 700px;
+}
+
+p {
+  text-align: justify;
+  font-size: 15px;
+  color: #ebe6e6;
+  width: 350px;
+  transform: translate(10px,0px);
+  font-family: Montserrat;
+  font-weight: 700px;
+}
+
+.divider {
+  height: 5px;
+  width: 395px;
+  background-color: black;
+  margin: 20px;
+}
+
+.container1 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  display: flex
+}
